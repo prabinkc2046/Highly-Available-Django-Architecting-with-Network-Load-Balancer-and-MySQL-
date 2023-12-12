@@ -16,6 +16,7 @@ To streamline the management of the Django application, a service file is implem
 In essence, this demonstration not only elucidates the intricacies of configuring a Network Load Balancer but also presents a holistic approach to architecting a scalable, secure, and resilient cloud infrastructure for modern applications.
 
 Watch demo videos in order as they appear:
+
 [vid1 - Introduction.mp4](https://youtu.be/UK_zi0v8qjI)
 
 [vid2 - VPC Subnets and Routing.mp4](https://youtu.be/ufa-x1LeMwQ)
